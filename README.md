@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ehzawad.
-- 👀 I’m interested in coding and computational linguistics 
-- 🌱 I’m currently learning algorithms.
-- 💞️ I’m looking forward to collaborate on NLP.
+- 👋 Hi, I’m @ehzawad
 - 📫 How to reach me : ehzawad@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehzawad)](https://github.com/ehzawad/github-readme-stats)
